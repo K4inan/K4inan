@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K4inan and i'm Brazilian
+- 👋 Hi, I’m Kainan and i'm Brazilian
 - 👀 I’m interested in Programming
 - 🌱 I am currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
