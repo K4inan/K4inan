@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
 - 👀 I’m interested in Programming
-- 🌱 I am currently learning HTML, CSS and JavaScript
+- 🌱 I am currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
