@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
-- 👀 I’m interested in becoming a front-end developer
-- 🌱 I am currently learning HTML & CSS
+- 👀 I’m interested in becoming a back-end developer
+- 🌱 I am currently learning C#
 - 📫 Reach me in Linkedin
    
 <!---
