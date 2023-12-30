@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
-- 👀 I’m interested in becoming a back-end developer
+- 👀 I’m interested in becoming a back-end developer and gamedev
 - 🌱 I am currently learning C#
 - 📫 Reach me in Linkedin and Discord: kainan1
    
