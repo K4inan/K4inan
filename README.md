@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
-- 👀 I’m interested in becoming a back-end developer and gamedev
-- 🌱 I am currently learning C#
+- 👀 I’m interested in becoming a fullstack developer
+- 🌱 I am currently learning HTML & CSS
 - 📫 Reach me in Linkedin and Discord: kainan1
    
 <!---
