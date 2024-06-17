@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
-- 👀 I’m interested in becoming a fullstack developer
+- 👀 I’m interested in becoming a Front-End Developer
 - 🌱 I am currently learning HTML & CSS
 - 📫 Reach me in...
    
