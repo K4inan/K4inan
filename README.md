@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
-- 👀 I’m interested in becoming a Front-End Developer
-- 🌱 I am currently learning HTML & CSS
-- 📫 Reach me in...
+- 👀 I’m interested in becoming a Data Analytics
+- 🌱 I am currently learning Excel, PowerBI and SQL
+- 📫 Reach me in LindedIn: www.linkedin.com/in/bruno-c-574036154
+
    
 <!---
 K4inan/K4inan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
