@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kainan and i'm Brazilian
 - 👀 I’m interested in becoming a Data Analytics
 - 🌱 I am currently learning Python
-- 📫 Reach me in LindedIn: www.linkedin.com/in/bruno-c-574036154
+- 📫 Reach me in...
 
    
 <!---
